@@ -3,3 +3,4 @@ template
 build
 .secrets
 terraform/
+Labs/
